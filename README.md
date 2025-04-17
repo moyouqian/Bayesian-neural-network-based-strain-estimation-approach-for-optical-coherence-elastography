@@ -1,6 +1,7 @@
 # Bayesian-Neural-Network-with-concrete-dropout
 
 This is PyTorch re-implementation for Bayesian Convolutional Neural Networks.The BNN is constructed based on the architecture of the U-Net++ . The Concrete dropout layers are added prior to every convolutional layers.
+
 About The Concrete dropout https://arxiv.org/abs/1705.07832
 
 ## Requirements
