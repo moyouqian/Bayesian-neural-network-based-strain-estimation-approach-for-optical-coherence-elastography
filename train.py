@@ -247,7 +247,7 @@ for epoch in range(EPOCHS):
 
 
     
-    average_loss = train_loss/50000
+    average_loss = train_loss/55000
     scheduler.step(average_loss)
     print("Epochs : {} \t Train loss : {:.4f} \t Average loss : {:.6f}".format(iteration, train_loss, average_loss))
 
