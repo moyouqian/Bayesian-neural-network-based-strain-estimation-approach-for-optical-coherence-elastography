@@ -1,4 +1,4 @@
-# Bayesian-Neural-Network-with-concrete-dropout
+# Bayesian-neural-network-based strain estimation approach for optical coherence elastography
 
 This is PyTorch re-implementation for Bayesian Convolutional Neural Networks.The BNN is constructed based on the architecture of the U-Net++ . The Concrete dropout layers are added prior to every convolutional layers.
 
